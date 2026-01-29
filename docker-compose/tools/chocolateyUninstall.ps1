@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference = "Stop"
-$executableDir      = 'C:\ProgramData\Docker\cli-plugins\'
+$executableDir      = 'C:\Program Files\Docker\cli-plugins\'
 $executablePath     = Join-Path $executableDir 'docker-compose.exe'
 
 $dockerPath         = Split-Path -Path $executableDir -Parent
