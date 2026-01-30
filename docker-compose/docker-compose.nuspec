@@ -5,7 +5,7 @@
 
     <id>docker-compose</id>
     <title>Docker Compose V2</title>
-    <version>5.0.2</version>
+    <version>5.0.2.20260130</version>
     <authors>Docker Contributors</authors>
     <owners>StefanScherer,Geicht</owners>
 
